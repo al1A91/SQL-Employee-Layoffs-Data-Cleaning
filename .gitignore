@@ -1,0 +1,21 @@
+# macOS system files
+.DS_Store
+
+# SQL backup/temp files
+*.sql~
+
+# Logs
+*.log
+
+# VS Code settings (optional)
+.vscode/
+
+# Python bytecode
+__pycache__/
+*.py[cod]
+
+# Jupyter Notebook checkpoints (if applicable)
+.ipynb_checkpoints/
+
+# Environment files (if applicable)
+.env
