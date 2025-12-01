@@ -15,4 +15,4 @@ This project involves cleaning and transforming employee layoffs data. The goal 
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/al1A91/SQL-Employee-Layoffs-Data-Cleaning.git
+   git clone https://github.com/alnaimia/SQL-Employee-Layoffs-Data-Cleaning.git
